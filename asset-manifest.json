@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09bb833c.css",
+    "main.js": "/static/js/main.cd1190cf.js",
+    "static/js/787.2be84fa0.chunk.js": "/static/js/787.2be84fa0.chunk.js",
+    "static/media/dog.jpg": "/static/media/dog.65f3d17b1b91caa79d76.jpg",
+    "static/media/open eye.png": "/static/media/open eye.e3e8dad84a7925e35b7f.png",
+    "index.html": "/index.html",
+    "main.09bb833c.css.map": "/static/css/main.09bb833c.css.map",
+    "main.cd1190cf.js.map": "/static/js/main.cd1190cf.js.map",
+    "787.2be84fa0.chunk.js.map": "/static/js/787.2be84fa0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09bb833c.css",
+    "static/js/main.cd1190cf.js"
+  ]
+}
